@@ -10,7 +10,7 @@ namespace kalkulator
     {
         static void Main(string[] args)
         {
-            int a = 7;
+            int a = 2;
             int b = 3;
 
             Console.WriteLine("kalkulator sederhana");
